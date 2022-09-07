@@ -2,8 +2,8 @@
 
 ## Process
 
-- Create an EC2 instance
-- Install Linux-Ubuntu Amazon machine image (AMI)
+- Create an EC2 instance on aws
+- Install Linux-Ubuntu Amazon machine image (AMI) or any linux image of your choice
 - Create a key-pair Login,for ssh login A .pem file would be downloaded
 - Launch the instance
 - Connect to the instance via ssh
